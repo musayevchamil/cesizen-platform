@@ -1,0 +1,11 @@
+app/node_modules
+app/vendor
+app/.env
+app/public/build
+app/storage/logs/*.log
+app/storage/framework/cache
+app/storage/framework/sessions
+app/storage/framework/views
+.git
+.github
+*.md
